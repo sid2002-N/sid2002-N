@@ -1,12 +1,12 @@
 
- <p align="center">
+<p align="center">
   <img src="siddhu.png" alt="Cover Image" width="250" height="300">
 </p>
 
 
 
-# SIDDHARTH P SANTHOSH
-
+<p align = "center"> # SIDDHARTH P SANTHOSH <p>
+ 
 ###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
 
 
