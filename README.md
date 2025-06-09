@@ -9,8 +9,6 @@
  
 ###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
 
-
-
 # Welcome to my GitHub profile!
 
 I'm **Siddharth P Santhosh**, a passionate **Data Science and AI enthusiast** with a keen interest in harnessing the power of data to uncover meaningful insights, build intelligent systems, and solve real-world challenges.  
@@ -41,11 +39,11 @@ This space is a reflection of my journey in tech — from experimenting with new
 
 
 ## IDE
-[![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/amal1310)
+[![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sid2002-N)
 
 ## Skills
 - ### Languages
-  [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/amal1310) 
+  [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/sid2002-N) 
 - ### AI/ML Ecosystem
 
   
