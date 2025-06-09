@@ -11,7 +11,23 @@
 
 
 
-Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+# Welcome to my GitHub profile!
+
+I'm **Siddharth P Santhosh**, a passionate **Data Science and AI enthusiast** with a keen interest in harnessing the power of data to uncover meaningful insights, build intelligent systems, and solve real-world challenges.  
+
+Currently, I'm exploring advanced topics in **Machine Learning, MLOps, Deep Learning, and Python development**, while actively working on personal and collaborative projects that reflect my skills and curiosity.
+
+This space is a reflection of my journey in tech — from experimenting with new libraries and frameworks to building scalable, impactful applications.  
+
+✨ Feel free to explore my repositories, check out my projects, and connect with me!  
+
+---
+
+## 📌 What I'm currently working on:
+- 🚀 Developing full-stack AI applications  
+- 📊 Experimenting with Data Science case studies  
+- 🤖 Learning Transformer models and prompt engineering  
+- ⚙️ Exploring cloud deployment for ML models
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)](https://github.com/sid2002-N)
 
