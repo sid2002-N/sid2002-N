@@ -1,4 +1,4 @@
-<img src="siddhu.png" alt="Cover Image" width="800" height="350">
+<img src="siddhu.png" alt="Cover Image" width="400" height="350">
 
 
 # SIDDHARTH P SANTHOSH
