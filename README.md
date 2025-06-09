@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="siddhu.png" alt="Cover Image" width="250" height="200">
+  <img src="siddhu.png" alt="Cover Image" width="250" height="300">
 </p>
 
 
