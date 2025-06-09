@@ -4,8 +4,7 @@
 </p>
 
 <H1 align = "center"> SIDDHARTH P SANTHOSH <H1>
-
-<H1 align = "center">🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions** <H1>
+<H1 align = "center">🚀 Aspiring Data Scientist | 💡 Passionate about AI & Machine Learning| 📊 Exploring Data-Driven Solutions <H1>
 
 # Welcome to my GitHub profile!
 
