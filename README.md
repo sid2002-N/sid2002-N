@@ -83,4 +83,4 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmamal1310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalm1310) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_l_x_m_a) 
 
-![Snake animation](https://github.com/sid2002-N/sid2002-N/blob/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sid2002-N/sid2002-N/assets/github-contribution-grid-snake.svg)
