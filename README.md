@@ -1,4 +1,4 @@
-<img src="https://lottie.host/cb22c6ad-d340-4947-b45f-92913b49e98d/aHWDjxt08b.lottie" alt="Cover Image" width="800" height="350">
+<img src="siddhu.png" alt="Cover Image" width="800" height="350">
 
 
 # SIDDHARTH P SANTHOSH
