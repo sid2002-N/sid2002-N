@@ -7,7 +7,7 @@
 
 <H1 align = "center"> SIDDHARTH P SANTHOSH <H1>
  
-###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
+##  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
 
 # Welcome to my GitHub profile!
 
@@ -27,7 +27,7 @@ This space is a reflection of my journey in tech — from experimenting with new
 - 🤖 Learning Transformer models and prompt engineering  
 - ⚙️ Exploring cloud deployment for ML models
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)](https://github.com/sid2002-N)
 
  ## Top Repositories
 <a href="https://github.com/sid2002-N/ksrtc_concession_app">
