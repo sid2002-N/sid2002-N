@@ -3,11 +3,9 @@
   <img src="siddhu.png" alt="Cover Image" width="250" height="300">
 </p>
 
-
-
 <H1 align = "center"> SIDDHARTH P SANTHOSH <H1>
 
-###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
+<H1 align = "center">🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions** <H1>
 
 # Welcome to my GitHub profile!
 
