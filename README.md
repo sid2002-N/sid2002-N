@@ -27,13 +27,11 @@ This space is a reflection of my journey in tech — from experimenting with new
 - 🤖 Learning Transformer models and prompt engineering  
 - ⚙️ Exploring cloud deployment for ML models
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)](https://github.com/sid2002-N)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)]()
 
  ## Top Repositories
 <a href="https://github.com/sid2002-N/ksrtc_concession_app">
     <img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/Home.jpeg" alt="KSRTC Concession App" width="250" height="200"> 
- <a href="https://github.com/sid2002-N/skin-condition-prediction-">
-    <img src="https://github.com/sid2002-N/skin-condition-prediction-/blob/main/IMAGE%20FOR%20SKIN%20CONDTION.jpg" alt="SKIN CONDITION PREDICTION" width="250" height="200">
 
 
 
