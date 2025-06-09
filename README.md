@@ -6,8 +6,7 @@
 
 
 <H1 align = "center"> SIDDHARTH P SANTHOSH <H1>
- 
-##  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
+ ###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
 
 # Welcome to my GitHub profile!
 
