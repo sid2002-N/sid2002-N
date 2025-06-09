@@ -24,7 +24,7 @@ This space is a reflection of my journey in tech — from experimenting with new
 - 🤖 Learning Transformer models and prompt engineering  
 - ⚙️ Exploring cloud deployment for ML models
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)](https://github.com/sid2002-N)
+
 
  ## Top Repositories
 <a href="https://github.com/sid2002-N/ksrtc_concession_app">
@@ -86,7 +86,7 @@ This space is a reflection of my journey in tech — from experimenting with new
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sid2002-N&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid2002-N&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sid2002-N&show_icons=true&theme=dark&utcOffset=8)](https://github.com/sid2002-N)
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid2002-N&theme=dark)](https://github.com/sid2002-N)
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats-virid-three.vercel.app?user=sid2002-N&theme=sea&card_width=500&card_height=200)](https://git.io/streak-stats)
 
