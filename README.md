@@ -1,5 +1,8 @@
 
-  <img src="siddhu.png" alt="Cover Image" align="center" width="250" height="200">
+ <p align="center">
+  <img src="siddhu.png" alt="Cover Image" width="250" height="200">
+</p>
+
 
 
 # SIDDHARTH P SANTHOSH
