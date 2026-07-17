@@ -1,4 +1,3 @@
-
 <!-- ─────────────────────────────────────────────────────────── -->
 <!--   UNIT DESIGNATION  //  SIDDHARTH P SANTHOSH               -->
 <!--   CLASSIFICATION    //  AI ENGINEER · DATA SCIENTIST        -->
@@ -9,154 +8,245 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:0C1220,100:060A0F&height=14&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C1220,100:0C1220&height=170&text=SIDDHARTH%20P%20SANTHOSH&fontSize=34&fontColor=EDE8DC&animation=fadeIn&fontAlignY=44&desc=Data+Scientist+·+AI+Engineer+·+ML+Researcher&descAlignY=66&descSize=12&descColor=4B6070" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C1220,100:0C1220&height=180&text=SIDDHARTH%20P%20SANTHOSH&fontSize=34&fontColor=EDE8DC&animation=fadeIn&fontAlignY=42&desc=Data+Scientist+·+AI+Engineer+·+ML+Researcher&descAlignY=64&descSize=12&descColor=4B6070" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:0C1220,100:060A0F&height=14&section=header" width="100%"/>
 
 <br/>
-<br/>
 
-<img src="siddhu.png" width="82" alt="Siddharth P Santhosh"/>
-
-<br/>
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=5000&pause=3000&color=B45309&center=true&vCenter=true&width=540&lines=Designing+intelligent+systems+from+first+principles.;Translating+raw+data+into+decisions+that+hold+at+scale.;Deep+learning+%7C+MLOps+%7C+Applied+AI+%7C+Security.)](https://git.io/typing-svg)
+<table>
+<tr><td align="center" style="border: none;">
 
 <br/>
+<img src="siddhu.png" width="86" alt="Siddharth P Santhosh"/>
+<br/><br/>
 
-![status](https://img.shields.io/badge/●_ONLINE-0C1220?style=flat-square&labelColor=0C1220&color=D97706)&ensp;![location](https://img.shields.io/badge/Kerala,_India-0C1220?style=flat-square&labelColor=0C1220&color=4B6070)&ensp;![views](https://komarev.com/ghpvc/?username=sid2002-N&style=flat-square&color=4B6070&labelColor=0C1220&label=SIGNAL+COUNT)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=5000&pause=3000&color=B45309&center=true&vCenter=true&width=560&lines=Designing+intelligent+systems+from+first+principles.;Translating+raw+data+into+decisions+that+hold+at+scale.;Deep+learning+%7C+MLOps+%7C+Applied+AI+%7C+Security.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-1C2535?style=flat-square&logo=gmail&logoColor=D97706)](mailto:siddharthpsanthosh07@gmail.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2535?style=flat-square&logo=linkedin&logoColor=D97706)](https://www.linkedin.com/in/siddharth-p-santhosh-a08328336/)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-1C2535?style=flat-square&logo=github&logoColor=D97706)](https://github.com/sid2002-N)&ensp;[![Instagram](https://img.shields.io/badge/Instagram-1C2535?style=flat-square&logo=instagram&logoColor=D97706)](https://www.instagram.com/_si.d.d.h.a.r.th_/)
+<kbd>●&nbsp;ONLINE</kbd>&nbsp;&nbsp;<kbd>KERALA,&nbsp;INDIA</kbd>&nbsp;&nbsp;<kbd><img src="https://komarev.com/ghpvc/?username=sid2002-N&style=flat-square&color=D97706&labelColor=0C1220&label=SIGNAL+COUNT" height="18" align="center"/></kbd>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-1C2535?style=for-the-badge&logo=gmail&logoColor=D97706)](mailto:siddharthpsanthosh07@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1C2535?style=for-the-badge&logo=linkedin&logoColor=D97706)](https://www.linkedin.com/in/siddharth-p-santhosh-a08328336/)&nbsp;[![GitHub](https://img.shields.io/badge/GITHUB-1C2535?style=for-the-badge&logo=github&logoColor=D97706)](https://github.com/sid2002-N)&nbsp;[![Instagram](https://img.shields.io/badge/INSTAGRAM-1C2535?style=for-the-badge&logo=instagram&logoColor=D97706)](https://www.instagram.com/_si.d.d.h.a.r.th_/)
 
 <br/>
+
+</td></tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; System Profile
+## &nbsp;◈&nbsp; System Profile
 
-<br/>
+<blockquote>
 
-I engineer intelligent systems — from data pipelines and model architectures to production-grade deployment. My work is defined by precision: understanding why something works, not just that it does.
+I engineer intelligent systems — from data pipelines and model architectures to production-grade deployment. My work is defined by precision: understanding <i>why</i> something works, not just that it does.
 
 I'm drawn to problems at the boundary of disciplines — where machine learning meets software infrastructure, and where AI capability intersects with security. Every system I build is designed to be measurable, observable, and defensible.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+</blockquote>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; Selected Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-**KSRTC Concession App** &nbsp;&nbsp; [![Repo](https://img.shields.io/badge/VIEW_MODULE-1C2535?style=flat-square&logo=github&logoColor=D97706)](https://github.com/sid2002-N/ksrtc_concession_app)
+## &nbsp;◈&nbsp; Selected Work
 
-<sub>CLASSIFICATION &nbsp;·&nbsp; Full-Stack Application &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Python</sub>
+<br/>
 
-> Replaces the KSRTC manual student concession process with a clean, end-to-end digital workflow. Reduces friction from application to approval through structured automation.
+<table width="100%">
+<tr>
+<td width="100%">
+
+<h3 align="center">KSRTC Concession App</h3>
 
 <div align="center">
-<br/>
+
+[![Repo](https://img.shields.io/badge/VIEW_MODULE-1C2535?style=for-the-badge&logo=github&logoColor=D97706)](https://github.com/sid2002-N/ksrtc_concession_app)
+
+<kbd>Full-Stack Application</kbd>&nbsp;<kbd>Automation</kbd>&nbsp;<kbd>Python</kbd>
+
+</div>
+
+<blockquote>
+Replaces the KSRTC manual student concession process with a clean, end-to-end digital workflow. Reduces friction from application to approval through structured automation.
+</blockquote>
+
+<!--
+  ── SLIDESHOW STRIP ──────────────────────────────────────────
+  GitHub strips <script>/<style> from README rendering, so a real
+  auto-advancing carousel can't run here. This bordered three-cell
+  table is the closest working equivalent — each cell is a framed
+  "slide." Replace the two placeholder rows below with real
+  screenshot paths once you have more captures; only Home.jpeg
+  exists in the repo right now.
+-->
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 <a href="https://github.com/sid2002-N/ksrtc_concession_app">
-  <img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/Home.jpeg" width="520" alt="KSRTC Concession App"/>
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/Home.jpeg" width="100%" alt="KSRTC Home Screen"/>
 </a>
-<br/>
-</div>
+<br/><sub><b>Home</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/sid2002-N/ksrtc_concession_app">
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/PLACEHOLDER_2.jpeg" width="100%" alt="KSRTC Application Flow"/>
+</a>
+<br/><sub><b>Application Flow</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/sid2002-N/ksrtc_concession_app">
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/PLACEHOLDER_3.jpeg" width="100%" alt="KSRTC Approval Screen"/>
+</a>
+<br/><sub><b>Approval</b></sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<!--
+  ── OPTIONAL: CLICK-THROUGH SLIDESHOW ───────────────────────
+  Swap in for the strip above if you'd rather viewers click
+  through screenshots one at a time. Fill in real image paths.
 
 <div align="center">
-<sub>Further work in active development &nbsp;·&nbsp; <a href="https://github.com/sid2002-N?tab=repositories">View all modules →</a></sub>
+<details><summary><b>▸ Screenshot 1 — Home</b></summary><br/>
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/Home.jpeg" width="560"/>
+</details>
+<details><summary><b>▸ Screenshot 2 — Application Flow</b></summary><br/>
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/PLACEHOLDER_2.jpeg" width="560"/>
+</details>
+<details><summary><b>▸ Screenshot 3 — Approval</b></summary><br/>
+<img src="https://github.com/sid2002-N/ksrtc_concession_app/blob/main/images/PLACEHOLDER_3.jpeg" width="560"/>
+</details>
+</div>
+-->
+
+<div align="center">
+<sub>Further work in active development&nbsp;·&nbsp;<a href="https://github.com/sid2002-N?tab=repositories">View all modules →</a></sub>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; Instrumentation
+## &nbsp;◈&nbsp; Instrumentation
 
 <br/>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1C2535?style=flat-square&logo=tensorflow&logoColor=D97706)&nbsp;![Keras](https://img.shields.io/badge/Keras-1C2535?style=flat-square&logo=keras&logoColor=D97706)&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-1C2535?style=flat-square&logo=scikit-learn&logoColor=D97706)&nbsp;![XGBoost](https://img.shields.io/badge/XGBoost-1C2535?style=flat-square&logo=python&logoColor=D97706)&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-1C2535?style=flat-square&logo=opencv&logoColor=D97706)&nbsp;![Hugging Face](https://img.shields.io/badge/Hugging_Face-1C2535?style=flat-square&logo=huggingface&logoColor=D97706)
+<kbd>TensorFlow</kbd> <kbd>Keras</kbd> <kbd>scikit-learn</kbd> <kbd>XGBoost</kbd> <kbd>OpenCV</kbd> <kbd>Hugging Face</kbd>
+
+<br/>
 
 **Data Layer**
 
-![Pandas](https://img.shields.io/badge/Pandas-1C2535?style=flat-square&logo=pandas&logoColor=4B6070)&nbsp;![NumPy](https://img.shields.io/badge/NumPy-1C2535?style=flat-square&logo=numpy&logoColor=4B6070)&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-1C2535?style=flat-square&logo=python&logoColor=4B6070)&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-1C2535?style=flat-square&logo=python&logoColor=4B6070)&nbsp;![Tableau](https://img.shields.io/badge/Tableau-1C2535?style=flat-square&logo=tableau&logoColor=4B6070)
+<kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>Tableau</kbd>
+
+</td>
+<td valign="top" width="50%">
 
 **Languages & Databases**
 
-![Python](https://img.shields.io/badge/Python-1C2535?style=flat-square&logo=python&logoColor=4B6070)&nbsp;![R](https://img.shields.io/badge/R-1C2535?style=flat-square&logo=r&logoColor=4B6070)&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2535?style=flat-square&logo=postgresql&logoColor=4B6070)&nbsp;![MySQL](https://img.shields.io/badge/MySQL-1C2535?style=flat-square&logo=mysql&logoColor=4B6070)&nbsp;![SQL Server](https://img.shields.io/badge/SQL_Server-1C2535?style=flat-square&logo=microsoft-sql-server&logoColor=4B6070)
+<kbd>Python</kbd> <kbd>R</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQL Server</kbd>
+
+<br/>
 
 **Environment**
 
-![VS Code](https://img.shields.io/badge/VS_Code-1C2535?style=flat-square&logo=visual-studio-code&logoColor=4B6070)&nbsp;![PyCharm](https://img.shields.io/badge/PyCharm-1C2535?style=flat-square&logo=pycharm&logoColor=4B6070)&nbsp;![Colab](https://img.shields.io/badge/Colab-1C2535?style=flat-square&logo=googlecolab&logoColor=4B6070)&nbsp;![RStudio](https://img.shields.io/badge/RStudio-1C2535?style=flat-square&logo=rstudio&logoColor=4B6070)
+<kbd>VS Code</kbd> <kbd>PyCharm</kbd> <kbd>Colab</kbd> <kbd>RStudio</kbd>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; Active Calibration
+## &nbsp;◈&nbsp; Active Calibration
 
 <br/>
 
 <div align="center">
 
 | MODULE | OBJECTIVE | PROGRESS |
-|:---|:---|:---:|
-| Deep Learning | Transformer architectures · attention mechanisms | `████████░░` |
-| Generative AI | LLM fine-tuning · prompt engineering · RAG | `███████░░░` |
-| MLOps | Deployment · versioning · model monitoring | `██████░░░░` |
-| Security | Ethical hacking · CTFs · network fundamentals | `████░░░░░░` |
-| Hugging Face | Model publishing · Spaces deployment | `███░░░░░░░` |
+|:--|:--|:--:|
+| **Deep Learning** | Transformer architectures · attention mechanisms | `████████░░` |
+| **Generative AI** | LLM fine-tuning · prompt engineering · RAG | `███████░░░` |
+| **MLOps** | Deployment · versioning · model monitoring | `██████░░░░` |
+| **Security** | Ethical hacking · CTFs · network fundamentals | `████░░░░░░` |
+| **Hugging Face** | Model publishing · Spaces deployment | `███░░░░░░░` |
 
 </div>
 
 <br/>
 
-**Active certifications** &ensp;
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering_Specialization-1C2535?style=flat-square&logo=coursera&logoColor=D97706)](https://coursera.org)&ensp;[![Data Science](https://img.shields.io/badge/Data_Science_Specialization-1C2535?style=flat-square&logo=coursera&logoColor=D97706)](https://coursera.org)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
-
-<br/>
-
-## &nbsp; ◈ &nbsp; Telemetry
-
-<br/>
-
 <div align="center">
+
+**Active certifications**
+
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering_Specialization-1C2535?style=for-the-badge&logo=coursera&logoColor=D97706)](https://coursera.org)&nbsp;[![Data Science](https://img.shields.io/badge/Data_Science_Specialization-1C2535?style=for-the-badge&logo=coursera&logoColor=D97706)](https://coursera.org)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
+
+<br/>
+
+## &nbsp;◈&nbsp; Telemetry
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" colspan="2">
 
 <img src="https://github-readme-streak-stats-virid-three.vercel.app?user=sid2002-N&theme=transparent&hide_border=true&background=0C1220&ring=D97706&fire=B45309&currStreakLabel=D97706&dates=4B6070&sideLabels=D97706&sideNums=EDE8DC&currStreakNum=EDE8DC&stroke=1C2535" width="480" alt="Streak"/>
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid2002-N&layout=compact&hide_border=true&bg_color=0C1220&title_color=D97706&text_color=4B6070&border_color=1C2535&langs_count=6" width="100%" alt="Languages"/>
 
-<div align="center">
+</td>
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid2002-N&layout=compact&hide_border=true&bg_color=0C1220&title_color=D97706&text_color=4B6070&border_color=1C2535&langs_count=6" width="320" alt="Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sid2002-N&show_icons=true&hide_border=true&bg_color=0C1220&title_color=D97706&icon_color=D97706&text_color=4B6070&border_color=1C2535&hide=contribs&show=prs_merged_percentage&rank_icon=percentile" width="100%" alt="Stats"/>
 
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api?username=sid2002-N&show_icons=true&hide_border=true&bg_color=0C1220&title_color=D97706&icon_color=D97706&text_color=4B6070&border_color=1C2535&hide=contribs&show=prs_merged_percentage&rank_icon=percentile" width="330" alt="Stats"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -168,34 +258,49 @@ I'm drawn to problems at the boundary of disciplines — where machine learning 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; External Platforms
+## &nbsp;◈&nbsp; External Platforms
 
 <br/>
 
-**Hugging Face** &ensp; [![Profile](https://img.shields.io/badge/huggingface.co-1C2535?style=flat-square&logo=huggingface&logoColor=D97706)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME)&ensp;[![Models](https://img.shields.io/badge/Models-1C2535?style=flat-square&logo=huggingface&logoColor=4B6070)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME?tab=models)&ensp;[![Spaces](https://img.shields.io/badge/Spaces-1C2535?style=flat-square&logo=huggingface&logoColor=4B6070)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME?tab=spaces)
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<sub>Publishing models and interactive Spaces — replace `YOUR_HUGGINGFACE_USERNAME` to activate.</sub>
+**Hugging Face**
 
-<br/>
+[![Profile](https://img.shields.io/badge/huggingface.co-1C2535?style=for-the-badge&logo=huggingface&logoColor=D97706)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME)
 
-**TryHackMe** &ensp; [![Profile](https://img.shields.io/badge/tryhackme.com-1C2535?style=flat-square&logo=tryhackme&logoColor=D97706)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+[![Models](https://img.shields.io/badge/Models-1C2535?style=flat-square&logo=huggingface&logoColor=4B6070)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME?tab=models)&nbsp;[![Spaces](https://img.shields.io/badge/Spaces-1C2535?style=flat-square&logo=huggingface&logoColor=4B6070)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME?tab=spaces)
 
-<sub>Offensive security · CTF challenges · network fundamentals — replace `YOUR_TRYHACKME_USERNAME` to activate.</sub>
+<sub>Publishing models and interactive Spaces — replace <kbd>YOUR_HUGGINGFACE_USERNAME</kbd> to activate.</sub>
+
+</td>
+<td valign="top" width="50%">
+
+**TryHackMe**
+
+[![Profile](https://img.shields.io/badge/tryhackme.com-1C2535?style=for-the-badge&logo=tryhackme&logoColor=D97706)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+
+<sub>Offensive security · CTF challenges · network fundamentals — replace <kbd>YOUR_TRYHACKME_USERNAME</kbd> to activate.</sub>
 
 <!-- Uncomment once account is configured: -->
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png" width="240" alt="TryHackMe Rank"/> -->
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
-## &nbsp; ◈ &nbsp; Trophy Record
+## &nbsp;◈&nbsp; Trophy Record
 
 <br/>
 
@@ -207,7 +312,7 @@ I'm drawn to problems at the boundary of disciplines — where machine learning 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:D97706,100:060A0F&height=2" width="100%"/>
 
 <br/>
 
@@ -215,14 +320,13 @@ I'm drawn to problems at the boundary of disciplines — where machine learning 
 
 <img src="assets/github-contribution-grid-snake.svg" alt="Contribution map"/>
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060A0F,50:0C1220,100:060A0F&height=60&text=OPEN+TO+RESEARCH+·+COLLABORATION+·+MEANINGFUL+WORK&fontSize=10&fontColor=2D3F50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<sub>Built with precision &nbsp;·&nbsp; Kerala, India &nbsp;·&nbsp; <a href="mailto:siddharthpsanthosh07@gmail.com">Establish contact →</a></sub>
+<sub>Built with precision&nbsp;·&nbsp;Kerala, India&nbsp;·&nbsp;<a href="mailto:siddharthpsanthosh07@gmail.com">Establish contact →</a></sub>
 
 <br/>
 
